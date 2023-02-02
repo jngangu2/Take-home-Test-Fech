@@ -1,0 +1,3 @@
+Select user_id
+	from Receipts
+  order by Date_scanned ASC;
